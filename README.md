@@ -412,5 +412,5 @@ The initial Go implementation was inspired by [kylegrantlucas/pia-wg-config](htt
 
 This is also my first Go project, so it's been a solid learning experience as well as a practical tool for my own infrastructure.
 
-** ⚠️ [!WARNING] ⚠️
-> This project is not affiliated with or endorsed by Private Internet Access in any way! **
+> [!WARNING]
+> This project is not affiliated with or endorsed by Private Internet Access in any way!
